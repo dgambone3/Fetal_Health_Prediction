@@ -24,27 +24,27 @@ Cardiotocography is a powerful tool that is mainly used to determine how much ox
 ### Decision Tree Classifier
 <img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/dt_metric.png" width="500" />
 
-<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/dt_param.png" width="500" />
+<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/dt_param.png" width="700" />
 
 ### Support Vector Machine
 <img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/svm_metric.png" width="500" />
 
-<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/svm_param.png" width="500" />
+<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/svm_param.png" width="700" />
 
 <img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/svm_boundary.png" width="500" />
 
 ### Gradient Boosting
 <img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/gb_metric.png" width="500" />
 
-<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/gb_param.png" width="500" />
+<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/gb_param.png" width="700" />
 
 ### k-Nearest Neighbors
 <img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/knn_metric.png" width="500" />
 
-<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/knn_param.png" width="500" />
+<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/knn_param.png" width="700" />
 
 ### Logistic Regression
 <img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/logreg_metric.png" width="500" />
 
-<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/logreg_param.png" width="500" />
+<img src="https://github.com/dgambone3/CSC6740DataMiningProject/blob/main/imagees/logreg_param.png" width="700" />
 
